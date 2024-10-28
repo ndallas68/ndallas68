@@ -1,10 +1,10 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Nolan Dallas
 ====================================================================================================================================
 
-Software Engineer | IT Support
+Software Developer | IT Support
 ------------------------------
 
-Currently a Software Engineer for an Styberg Engineering building background processes for our ERP in C# and VB. Spend my free time playing with React applications or building electronics with microcontrollers and 3D printing.
+Currently a Software Developer for Styberg Engineering building background processes for our ERP in C# and VB. Spend my free time playing with React applications or building electronics with microcontrollers and 3D printing.
 
 * 🌍  I'm based in Milwaukee, WI
 * ✉️  You can contact me at [nolanwolfdallas@gmail.com](mailto:nolanwolfdallas@gmail.com)
