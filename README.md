@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Nolan Dallas
 ====================================================================================================================================
 
-Software Developer | IT Support
+Business System Analyst | Software Developer | IT Support
 ------------------------------
 
 Currently a Software Developer for Styberg Engineering building background processes for our ERP in C# and VB. Spend my free time playing with React applications or building electronics with microcontrollers and 3D printing.
