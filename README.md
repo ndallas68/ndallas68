@@ -9,7 +9,7 @@ Currently a Software Developer for Styberg Engineering building background proce
 * 🌍  I'm based in Milwaukee, WI
 * ✉️  You can contact me at [nolanwolfdallas@gmail.com](mailto:nolanwolfdallas@gmail.com)
 * 🧠  I'm learning Arduino (( C++ ))
-* ⚡  Interested in all things tech, from MQTT to Subnets to CSS magic
+* ⚡  Interested in all things tech, from MQTT to Subnets to CSS aethstetics
 
 ### Skills
 
